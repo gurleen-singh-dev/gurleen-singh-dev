@@ -49,7 +49,7 @@ Perform real-time computer vision operations on images
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [gurleen-singh-dev](https://www.linkedin.com/in/gurleen-singh-dev/)  
-- 🧠 LeetCode: [Gurleen Singh](https://leetcode.com/u/DIIhMU9jOx/)  
+- 🧠 LeetCode: [Gurleen Singh](https://leetcode.com/u/gurleen-singh-dev/)
 - ⌨️ Monkeytype: [gurleensingh](https://monkeytype.com/profile/gurleensingh)  
 
 ---
